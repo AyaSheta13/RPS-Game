@@ -16,7 +16,29 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 
 ---
 
-## 📱 Screenshots <div align="center"> | Main Screen | Game Screen | Results Screen | |------------|------------|----------------| | <img src="https://via.placeholder.com/300x600/4873BE/FFFFFF?text=Main+Screen" width="200" /> | <img src="https://via.placeholder.com/300x600/4680C9/FFFFFF?text=Game+Screen" width="200" /> | <img src="https://via.placeholder.com/300x600/00316C/FFFFFF?text=Results+Screen" width="200" /> | </div>
+## 📱 Screenshots
+
+<div align="center">
+
+### 🏁 Game Flow Screens
+
+| Home Screen | VS Computer | Counter Screen |
+|:---:|:---:|:---:|
+| <img src="https://via.placeholder.com/300x600/4873BE/FFFFFF?text=HomeScreen" width="180" /> | <img src="https://via.placeholder.com/300x600/4680C9/FFFFFF?text=vsComputerScreen" width="180" /> | <img src="https://via.placeholder.com/300x600/022F7A/FFFFFF?text=counterScreen" width="180" /> |
+
+<br>
+
+| Round Winner (1) | Round Winner (2) |
+|:---:|:---:|
+| <img src="https://via.placeholder.com/300x600/27AE60/FFFFFF?text=whoWonScreen" width="220" /> | <img src="https://via.placeholder.com/300x600/E67E22/FFFFFF?text=whoWonScreen2" width="220" /> |
+
+<br>
+
+| Game Result: Win | Game Result: Lose |
+|:---:|:---:|
+| <img src="https://via.placeholder.com/300x600/F1C40F/000000?text=resultScreen_playerWon" width="220" /> | <img src="https://via.placeholder.com/300x600/95A5A6/FFFFFF?text=resultScreen_computerWon" width="220" /> |
+
+</div>
 
 ---
 
