@@ -123,82 +123,94 @@ cd rps-game
 ----
 
 ### 🎮 How to Play
-Starting a Game
-Open the app to the main screen
+## Starting a Game
+1. Open the app to the main screen
 
-Select game mode:
+2. Select game mode:
+   
+   VS Computer
+   VS Friend
 
-VS Computer
+3. Choose match length (3, 5, or 10 rounds)
 
-VS Friend
-
-Choose match length (3, 5, or 10 rounds)
-
-Tap Start Game
+4. Tap Start Game
 
 Playing a Round
-VS Computer Mode:
+## VS Computer Mode:
 
-Tap your choice (Rock, Paper, or Scissors)
+- Tap your choice (Rock, Paper, or Scissors)
 
-Watch countdown animation
+- Watch countdown animation
 
-See computer's choice revealed
+- See computer's choice revealed
 
 View round result
 
-VS Friend Mode:
+## VS Friend Mode:
 
-Player 1 selects choice
+- Player 1 selects choice
 
-Pass device to Player 2
+- Pass device to Player 2
 
-Player 2 selects choice
+- Player 2 selects choice
 
-Both choices revealed simultaneously
+- Both choices revealed simultaneously
 
-Game Rules
-✊ Rock beats ✌️ Scissors
+----
 
-🖐️ Paper beats ✊ Rock
+### Game Rules
+- ✊ Rock beats ✌️ Scissors
 
-✌️ Scissors beats 🖐️ Paper
+- 🖐️ Paper beats ✊ Rock
 
-Same choice = Draw
+- ✌️ Scissors beats 🖐️ Paper
 
-🎨 Theme & Styling
+- Same choice = Draw
+
+----
+
+### 🎨 Theme & Styling
 Custom blue-themed color palette:
 
-Kotlin
+```bash
 val PrimaryColor = Color(0xFF4873BE)       // Main blue
 val PrimaryDarkColor = Color(0xFF022F7A)   // Dark blue
 val SecondaryColor = Color(0xFF4680C9)     // Secondary blue
 val SecondaryDarkColor = Color(0xFF00316C) // Dark secondary
 val SurfaceColor = Color(0xFFFFFFFF)       // Card backgrounds
-🔧 Configuration
-Build Variants:
+```
 
-Debug: For development with logging
+----
 
-Release: For production with minification
+### 🔧 Configuration
+## Build Variants:
 
-Main Dependencies:
+- Debug: For development with logging
 
-androidx.compose.*: UI framework
+- Release: For production with minification
 
-dagger.hilt.*: Dependency injection
+## Main Dependencies:
 
-androidx.navigation.*: Navigation
+- androidx.compose.*: UI framework
 
-kotlinx.coroutines.*: Async operations
+- dagger.hilt.*: Dependency injection
 
-🧪 Testing
-Bash
+- androidx.navigation.*: Navigation
+
+- kotlinx.coroutines.*: Async operations
+
+----
+
+### 🧪 Testing
+```bash
 # Unit tests
 ./gradlew test
 
 # Instrumented tests
 ./gradlew connectedAndroidTest
+```
+----
+
 Test Coverage:
 
 Unit Tests: Domain layer logic and game engine
