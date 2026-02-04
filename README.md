@@ -138,54 +138,6 @@ cd rps-game
 
 ----
 
-### 🎮 How to Play
-
-## Starting a Game
-1. Open the app to the main screen
-
-2. Select game mode:
-   
-   VS Computer
-   VS Friend
-
-3. Choose match length (3, 5, or 10 rounds)
-
-4. Tap Start Game
-
-Playing a Round
-## VS Computer Mode:
-
-- Tap your choice (Rock, Paper, or Scissors)
-
-- Watch countdown animation
-
-- See computer's choice revealed
-
-View round result
-
-## VS Friend Mode:
-
-- Player 1 selects choice
-
-- Pass device to Player 2
-
-- Player 2 selects choice
-
-- Both choices revealed simultaneously
-
-----
-
-### Game Rules
-- ✊ Rock beats ✌️ Scissors
-
-- 🖐️ Paper beats ✊ Rock
-
-- ✌️ Scissors beats 🖐️ Paper
-
-- Same choice = Draw
-
-----
-
 ### 🎨 Theme & Styling
 Custom blue-themed color palette:
 
