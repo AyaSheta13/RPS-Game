@@ -1,7 +1,7 @@
 # 🪨 📄 ✂️ Rock Paper Scissors Game
 
 <div align="center">
-<img src="Screenshots/my_circle_image.jpg" alt="Rock Paper Scissors Game" />
+<img src="Screenshots/my_circle_image.jpg" alt="Rock Paper Scissors Game" width="120" />
 <br>
 A beautifully designed, feature-rich Rock Paper Scissors game built with modern Android technologies
 <br><br>
