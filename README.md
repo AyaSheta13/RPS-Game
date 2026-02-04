@@ -58,7 +58,7 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 
 ## 🏗️ Architecture
 
-text
+```text
 com.example.rpsgame
 ├── data                # Data Layer
 │   ├── datasource      # Data sources (Local/Remote)
@@ -74,7 +74,46 @@ com.example.rpsgame
 │   ├── theme           # Theme and styling
 │   └── utils           # Utility functions
 └── di                  # Dependency Injection
+```
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Kotlin
+- **UI Framework:** Jetpack Compose
+- **Architecture:** MVVM with Clean Architecture
+- **DI:** Dagger Hilt
+- **Navigation:** Compose Navigation
+- **State Management:** Kotlin Flows
+- **Build System:** Gradle with Kotlin DSL
+- **Min SDK:** Android 7.0 (API 24)
 
 ---
 
-### Tech Stack
+## 🚀 Getting Started
+
+### Prerequisites
+- Android Studio Flamingo or later
+- Android SDK 33+
+- JDK 17+
+
+### Installation
+1. Clone the repository:
+```bash
+git clone [https://github.com/yourusername/rps-game.git](https://github.com/yourusername/rps-game.git)
+cd rps-game
+```
+2. Open the project in Android Studio
+
+3. Wait for Gradle sync to complete
+
+4. Run on a device or emulator
+
+# Clean build
+./gradlew clean
+
+# Build debug APK
+./gradlew assembleDebug
+
+# Run tests
+./gradlew test
