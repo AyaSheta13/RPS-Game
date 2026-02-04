@@ -58,7 +58,7 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 
 ## 🏗️ Architecture
 
-```text
+text
 com.example.rpsgame
 ├── data                # Data Layer
 │   ├── datasource      # Data sources (Local/Remote)
@@ -74,3 +74,7 @@ com.example.rpsgame
 │   ├── theme           # Theme and styling
 │   └── utils           # Utility functions
 └── di                  # Dependency Injection
+
+---
+
+### Tech Stack
