@@ -16,12 +16,7 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-Home Screen	VS Computer Screen	Counter Screen	Who Won Screen 1	Who Won Screen 2	Result Player Won	Result Computer Won
-<img src="https://via.placeholder.com/300x600/4873BE/FFFFFF?text=Home+Screen" width="200" />	<img src="https://via.placeholder.com/300x600/4680C9/FFFFFF?text=VS+Computer+Screen" width="200" />	<img src="https://via.placeholder.com/300x600/1E90FF/FFFFFF?text=Counter+Screen" width="200" />	<img src="https://via.placeholder.com/300x600/00BFFF/FFFFFF?text=Who+Won+Screen+1" width="200" />	<img src="https://via.placeholder.com/300x600/007ACC/FFFFFF?text=Who+Won+Screen+2" width="200" />	<img src="https://via.placeholder.com/300x600/00FF7F/FFFFFF?text=Result+Player+Won" width="200" />	<img src="https://via.placeholder.com/300x600/FF4500/FFFFFF?text=Result+Computer+Won" width="200" />
-</div>
+## 📱 Screenshots <div align="center"> | Main Screen | Game Screen | Results Screen | |------------|------------|----------------| | <img src="https://via.placeholder.com/300x600/4873BE/FFFFFF?text=Main+Screen" width="200" /> | <img src="https://via.placeholder.com/300x600/4680C9/FFFFFF?text=Game+Screen" width="200" /> | <img src="https://via.placeholder.com/300x600/00316C/FFFFFF?text=Results+Screen" width="200" /> | </div>
 
 ---
 
