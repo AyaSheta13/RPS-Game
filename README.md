@@ -24,7 +24,7 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 
 | Home Screen | VS Computer | Counter Screen |
 |:---:|:---:|:---:|
-| <img src="E:\Android\AndroidStudioProjects\rpsgame\Screenshots\counterScreen.jpg" width="180" /> | <img src="https://via.placeholder.com/300x600/4680C9/FFFFFF?text=vsComputerScreen" width="180" /> | <img src="https://via.placeholder.com/300x600/022F7A/FFFFFF?text=counterScreen" width="180" /> |
+| <img src="Screenshots/homeScreen.jpg" width="180" /> | <img src="Screenshots/vscomputerScreen.jpg" width="180" /> | <img src="Screenshots/counterScreen.jpg" width="180" /> |
 
 <br>
 
