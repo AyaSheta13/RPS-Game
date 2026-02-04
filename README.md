@@ -51,4 +51,18 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 ---
 
 ## 🏗️ Architecture
-
+com.example.rpsgame
+├── data # Data Layer
+│ ├── datasource # Data sources (Local/Remote)
+│ ├── model # Data classes and enums
+│ └── repository # Repository implementations
+├── domain # Domain Layer
+│ ├── engine # Game logic and rules
+│ └── usecase # Business logic use cases
+├── ui # Presentation Layer
+│ ├── components # Reusable Compose components
+│ ├── navigation # Navigation setup
+│ ├── screen # Screen composables
+│ ├── theme # Theme and styling
+│ └── utils # Utility functions
+└── di # Dependency Injection
