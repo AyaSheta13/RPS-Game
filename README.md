@@ -30,13 +30,13 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 
 | Round Winner (1) | Round Winner (2) |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/300x600/27AE60/FFFFFF?text=whoWonScreen" width="220" /> | <img src="https://via.placeholder.com/300x600/E67E22/FFFFFF?text=whoWonScreen2" width="220" /> |
+| <img src="Screenshots/whoWonScreen.jpg" width="220" /> | <img src="Screenshots/whoWonScreen2.jpg" width="220" /> |
 
 <br>
 
 | Game Result: Win | Game Result: Lose |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/300x600/F1C40F/000000?text=resultScreen_playerWon" width="220" /> | <img src="https://via.placeholder.com/300x600/95A5A6/FFFFFF?text=resultScreen_computerWon" width="220" /> |
+| <img src="Screenshots/resultScreen_playerWon.jpg" width="220" /> | <img src="Screenshots/resultScreen_computerWon.jpg" width="220" /> |
 
 </div>
 
