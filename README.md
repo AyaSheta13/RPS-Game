@@ -99,7 +99,7 @@ text
 
 ### Installation
 1. Clone the repository:
-```bash
+bash
 git clone https://github.com/yourusername/rps-game.git
 cd rps-game
 Open the project in Android Studio
