@@ -110,7 +110,9 @@ cd rps-game
 4. Run on a device or emulator
 
 ---
+### Build Commands
 
+```bash
 # Clean build
 ./gradlew clean
 
@@ -119,6 +121,7 @@ cd rps-game
 
 # Run tests
 ./gradlew test
+```
 
 ----
 
