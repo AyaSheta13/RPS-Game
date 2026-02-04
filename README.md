@@ -19,11 +19,8 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 ## 📱 Screenshots
 
 <div align="center">
-
-| Main Screen | Game Screen | Results Screen |
-|------------|------------|----------------|
-| <img src="https://via.placeholder.com/300x600/4873BE/FFFFFF?text=Main+Screen" width="200" /> | <img src="https://via.placeholder.com/300x600/4680C9/FFFFFF?text=Game+Screen" width="200" /> | <img src="https://via.placeholder.com/300x600/00316C/FFFFFF?text=Results+Screen" width="200" /> |
-
+Home Screen	VS Computer Screen	Counter Screen	Who Won Screen 1	Who Won Screen 2	Result Player Won	Result Computer Won
+<img src="https://via.placeholder.com/300x600/4873BE/FFFFFF?text=Home+Screen" width="200" />	<img src="https://via.placeholder.com/300x600/4680C9/FFFFFF?text=VS+Computer+Screen" width="200" />	<img src="https://via.placeholder.com/300x600/1E90FF/FFFFFF?text=Counter+Screen" width="200" />	<img src="https://via.placeholder.com/300x600/00BFFF/FFFFFF?text=Who+Won+Screen+1" width="200" />	<img src="https://via.placeholder.com/300x600/007ACC/FFFFFF?text=Who+Won+Screen+2" width="200" />	<img src="https://via.placeholder.com/300x600/00FF7F/FFFFFF?text=Result+Player+Won" width="200" />	<img src="https://via.placeholder.com/300x600/FF4500/FFFFFF?text=Result+Computer+Won" width="200" />
 </div>
 
 ---
@@ -126,6 +123,7 @@ cd rps-game
 ----
 
 ### 🎮 How to Play
+
 ## Starting a Game
 1. Open the app to the main screen
 
@@ -201,67 +199,3 @@ val SurfaceColor = Color(0xFFFFFFFF)       // Card backgrounds
 - androidx.navigation.*: Navigation
 
 - kotlinx.coroutines.*: Async operations
-
-----
-
-### 🧪 Testing
-```bash
-# Unit tests
-./gradlew test
-
-# Instrumented tests
-./gradlew connectedAndroidTest
-```
-----
-
-Test Coverage:
-
-Unit Tests: Domain layer logic and game engine
-
-UI Tests: Compose components and screens
-
-Integration Tests: Complete user workflows
-
-📊 Performance
-Startup Time: < 500ms cold start
-
-Memory Usage: < 50MB average
-
-Frame Rate: 60fps on animations
-
-APK Size: ~5MB without resources
-
-🤝 Contributing
-Fork the repository
-
-Create a feature branch: git checkout -b feature/AmazingFeature
-
-Commit changes: git commit -m 'Add some AmazingFeature'
-
-Push to branch: git push origin feature/AmazingFeature
-
-Open a Pull Request
-
-Coding Standards:
-
-Follow Kotlin coding conventions
-
-Use meaningful variable and function names
-
-Comment complex logic
-
-Write unit tests for new features
-
-Update relevant documentation
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-👏 Acknowledgments
-Material Design Icons
-
-Modern gaming app design inspiration
-
-Jetpack Compose documentation
-
-Android developer community
