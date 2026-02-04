@@ -44,28 +44,28 @@ A beautifully designed, feature-rich Rock Paper Scissors game built with modern 
 ## ✨ Features
 
 ### 🎮 Game Modes
-- **VS Computer**: Challenge the AI in strategic battles
-- **VS Friend**: Play locally with a friend on the same device
-- **Multiple Rounds**: Choose from 3, 5, or 10 rounds per game
+- **VS Computer**: Play against AI
+- **VS Friend**: Local multiplayer
+- **Rounds**: 3, 5, or 10 rounds
 
 ### 🎯 Game Features
-- **Smooth Animations**: Countdown timers, choice reveals, and result animations
-- **Round History**: Track all previous rounds with visual indicators
-- **Score Tracking**: Real-time score updates with elegant UI
-- **Winner Detection**: Automatic winner calculation and celebration screens
+- **Animations**: Smooth countdown and results
+- **History**: Round tracking
+- **Score**: Real-time score updates
+- **Winner Detection**: Automatic winner detection
 
 ### 🎨 UI/UX Design
-- **Modern Material Design**: Following Material 3 guidelines
-- **Custom Color Palette**: Professional blue-themed color scheme
-- **Responsive Layout**: Adapts to different screen sizes
-- **Visual Feedback**: Interactive buttons with selection states
+- **Material 3 Design**
+- **Custom Colors**
+- **Responsive UI**
+- **Interactive Feedback**
 
 ### ⚙️ Technical Features
-- **Clean Architecture**: Separation of concerns with clear layers
-- **Dependency Injection**: Using Dagger Hilt for better testability
-- **State Management**: Reactive UI with Kotlin Flows
-- **Navigation**: Type-safe navigation with arguments
-- **Offline Support**: All data stored locally
+- **Clean Architecture**
+- **Dependency Injection**
+- **Kotlin Flow State**
+- **Safe Navigation**
+- **Offline Support**
 
 ---
 
@@ -134,19 +134,6 @@ cd rps-game
 
 # Run tests
 ./gradlew test
-```
-
-----
-
-### 🎨 Theme & Styling
-Custom blue-themed color palette:
-
-```bash
-val PrimaryColor = Color(0xFF4873BE)       // Main blue
-val PrimaryDarkColor = Color(0xFF022F7A)   // Dark blue
-val SecondaryColor = Color(0xFF4680C9)     // Secondary blue
-val SecondaryDarkColor = Color(0xFF00316C) // Dark secondary
-val SurfaceColor = Color(0xFFFFFFFF)       // Card backgrounds
 ```
 
 ----
